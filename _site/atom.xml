@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Isorna</title>
+ <title>Isorna.net</title>
  <link href="http://isorna.github.io/atom.xml" rel="self"/>
  <link href="http://isorna.github.io/"/>
- <updated>2014-10-16T09:36:14+00:00</updated>
+ <updated>2014-10-16T10:26:46+00:00</updated>
  <id>http://isorna.github.io</id>
  <author>
    <name>Alvaro Isorna</name>
